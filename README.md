@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alberto Peñalba Martos
 
-<!--
-**albpenal/albpenal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Desarrollador de videojuegos
 
-Here are some ideas to get you started:
+## 🔥 Sobre mí  
+- 🕹️ Estudiante de desarrollo de videojuegos  
+- 🏗️ Aprendiendo nuevas tecnologías y motores de juegos  
+- 🎯 Interesado en IA, gráficos y diseño de juegos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000?style=for-the-badge&logo=unreal-engine&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+
+## 📫 Contacto  
+✉️ [Tu Correo]  
+💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)  
+📌 [Portafolio](https://tuportafolio.com)  
+
+---
+
+🚀 *¡Siempre aprendiendo y creando!* 🎨🎮
