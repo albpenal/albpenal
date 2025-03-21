@@ -5,7 +5,7 @@ I'm interested in Programming and Videogame Development
 - I’m currently finishing my Bachelor's Degree in Videogames Development in Universidad Complutense de Madrid
 - ✉️ alberto.penalbamartos@ucm.es  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alberto-pe%C3%B1alba-martos-585775335/)  
-- 📌 [Portfolio (TO DO)](https://albpenal.github.io/)  
+- 📌 [Portfolio (Not finished)](https://albpenal.github.io/)  
 
 ## Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
